@@ -13,3 +13,5 @@ $(document).ready(function(e){
 		
 	},false); //deviceready
 });//ready
+
+
